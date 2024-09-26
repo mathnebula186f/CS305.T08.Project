@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "zappfix",
+    "slug": "zappfix",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.Handymanhive.zappfix"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/89a8db0e-248a-431a-969d-2f32232d46a4"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "802acb74-f2d5-4612-837b-56ae810a7517"
+      }
+    }
+  }
+}

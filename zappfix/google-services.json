@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "872450425447",
+    "project_id": "notifications-2ec36",
+    "storage_bucket": "notifications-2ec36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872450425447:android:a7d91ea6b7697e8ddbcac2",
+        "android_client_info": {
+          "package_name": "com.Handymanhive.zappfix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBj9d_n9Vj9o76Xv3tZXs9SH-1GIbEWVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872450425447:android:a7fae60981b5726cdbcac2",
+        "android_client_info": {
+          "package_name": "com.devanshu1212.Notifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBj9d_n9Vj9o76Xv3tZXs9SH-1GIbEWVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
